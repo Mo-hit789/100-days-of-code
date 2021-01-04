@@ -7,3 +7,12 @@
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+
+### Day 2: January 04, 2021
+
+**Today's Progress**: continue on Budegty App.
+
+**Thoughts**: 
+
+**Link(s) to work**: 
