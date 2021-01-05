@@ -16,3 +16,11 @@
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+### Day 3: January 05, 2021
+
+**Today's Progress**: completed FreeCodeCamp survey form challenge.
+
+**Thoughts**: 
+
+**Link(s) to work**: 
