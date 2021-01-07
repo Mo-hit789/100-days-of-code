@@ -27,7 +27,7 @@
 
 ### Day 4: January 07, 2021
 
-**Today's Progress**: working on FreeCodeCamp landing page project.  
+**Today's Progress**: Write a post on dev.to,working on FreeCodeCamp landing page project,working on javascript budgety App.  
 
 **Thoughts**: 
 
