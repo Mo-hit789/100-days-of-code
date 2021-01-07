@@ -24,3 +24,11 @@
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+### Day 4: January 07, 2021
+
+**Today's Progress**: working on FreeCodeCamp landing page project.  
+
+**Thoughts**: 
+
+**Link(s) to work**: 
