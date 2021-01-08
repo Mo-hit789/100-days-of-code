@@ -32,3 +32,11 @@
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+### Day 4: January 07, 2021
+
+**Today's Progress**:working on FreeCodeCamp landing page project(completed header section),working on javascript budgety App(learned about-focus method,querySelectorAll,forEach method,slice method,nodeList to array convertsion).  
+
+**Thoughts**: 
+
+**Link(s) to work**: FCC project- https://github.com/Mo-hit789/responsive-design-certi-projects/tree/master/pruduct%20landing%20page
