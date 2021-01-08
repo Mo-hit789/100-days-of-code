@@ -33,7 +33,7 @@
 
 **Link(s) to work**: 
 
-### Day 4: January 07, 2021
+### Day 5: January 08, 2021
 
 **Today's Progress**:working on FreeCodeCamp landing page project(completed header section),working on javascript budgety App(learned about-focus method,querySelectorAll,forEach method,slice method,nodeList to array convertsion).  
 
