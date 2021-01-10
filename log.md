@@ -41,10 +41,20 @@
 
 **Link(s) to work**: FCC project- https://github.com/Mo-hit789/responsive-design-certi-projects/tree/master/pruduct%20landing%20page
 
+
 ### Day 6: January 09, 2021
 
 **Today's Progress**:working on FreeCodeCamp landing page project(completed service section),working on javascript budgety App(learned about-parseFloat() method,isNaN(),learned more about flexBox).  
 
 **Thoughts**: **keep calm and search on google**😁
+
+**Link(s) to work**: FCC project- https://github.com/Mo-hit789/responsive-design-certi-projects/tree/master/pruduct%20landing%20page
+
+
+### Day 7: January 10, 2021
+
+**Today's Progress**:working on FreeCodeCamp landing page project(completed pricing section).  
+
+**Thoughts**: 
 
 **Link(s) to work**: FCC project- https://github.com/Mo-hit789/responsive-design-certi-projects/tree/master/pruduct%20landing%20page
